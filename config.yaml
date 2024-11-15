@@ -1,6 +1,4 @@
-api_url: "https://api.exchangerate.host/latest"
+api_url:  "https://v6.exchangerate-api.com/v6/07aff30a57f87540914af754/latest/USD"
 log_file: "logs/app.log"
 log_level: "INFO"
-base_currency: "USD"
-target_currency: "EUR"
-amount: 100
+prove_currency: "USD"
